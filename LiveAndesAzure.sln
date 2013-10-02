@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "LiveAndesAzure", "LiveAndesAzure\LiveAndesAzure.ccproj", "{7B1D27BF-469A-4CC1-9ADD-EB7E704FE70C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcWebRole1", "MvcWebRole1\MvcWebRole1.csproj", "{8AA2167C-4369-479D-B978-D2AC17F8228E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B1D27BF-469A-4CC1-9ADD-EB7E704FE70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1D27BF-469A-4CC1-9ADD-EB7E704FE70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1D27BF-469A-4CC1-9ADD-EB7E704FE70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1D27BF-469A-4CC1-9ADD-EB7E704FE70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA2167C-4369-479D-B978-D2AC17F8228E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA2167C-4369-479D-B978-D2AC17F8228E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA2167C-4369-479D-B978-D2AC17F8228E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA2167C-4369-479D-B978-D2AC17F8228E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
